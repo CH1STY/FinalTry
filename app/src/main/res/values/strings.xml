@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FinalTry</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="fName">First Name</string>
+    <string name="lName">Last Name</string>
+    <string name="email">Email</string>
+    <string name="btnText">Register</string>
+
 </resources>
